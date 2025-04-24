@@ -6,7 +6,7 @@
 		"culture": 2,
 		"happiness": 10,
 		"cost": 2,
-		"uniques": ["Unbuildable <when below [60] Happiness> <when below [60] [Food]> <if [The fertility church] is not constructed"]
+		"uniques": ["Unbuildable <when below [60] Happiness> <when below [60] [Food]> <if [The fertility church] is not constructed","Requires at least [25] population"]
 	},
 {
 		"name": "The fertility church",
