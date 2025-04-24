@@ -1,25 +1,13 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "The Grand Museum of Luxury Resources",
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"production": 8,
+		"science": 4,
+		"gold": 4,
+		"culture": 10,
+		"happiness": 4,
+		"cost": 1,
+		"uniques": ["Only available <when [Luxurious] Victory is enabled>","Consumes [1] [Furs]","Consumes [1] [Gold Ore]","Consumes [1] [Gems]","Consumes [1] [Dyes]","Consumes [1] [Cotton]","Consumes [1] [Silver]","Consumes [1] [Spices]","Consumes [1] [Silk]","Consumes [1] [Ivory]","Consumes [1] [Incense]","Consumes [1] [Pearls]","Consumes [1] [Whales]","Consumes [1] [Marble]","Consumes [1] [Sugar]","Consumes [1] [Wine]","Consumes [1] [Truffles]","Consumes [1] [Salt]","Consumes [1] [Crab]","Consumes [1] [Copper]","Consumes [1] [Citrus]"]
 	}
 ]
