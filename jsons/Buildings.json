@@ -6,7 +6,7 @@
 		"culture": 2,
 		"happiness": 10,
 		"cost": 2,
-		"uniques": ["Unbuildable <when below [60] Happiness> <when below [60] [Food]>"]
+		"uniques": ["Unbuildable <when below [60] Happiness> <when below [60] [Food]>","The fertility church"]
 	},
 {
 		"name": "The fertility church",
@@ -15,7 +15,7 @@
 		"faith": 3,
 		"happiness": 1,
 		"cost": 3,
-		"uniques": ["Unbuildable <when below [30] Happiness> <when below [30] [Food]>"]
+		"uniques": ["Unbuildable <when below [30] Happiness> <when below [30] [Food]>","Unbuildable <if [The altar of joy] is constructed>","Requires at least [15] population"]
 	},
 {
 		"name": "The altar of joy",
