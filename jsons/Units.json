@@ -3,6 +3,6 @@
   "name": "Happy Citizen Paul",
 		"unitType": "Civilian",
 		"movement": 1,
-		"uniques": ["Unbuildable "Cannot be purchased","Uncapturable", "Limited to [3] per Civilization"]
+		"uniques": ["Unbuildable","Cannot be purchased","Uncapturable", "Limited to [3] per Civilization"]
 	},
 ]
