@@ -15,6 +15,6 @@
   "name": "Happy Citizen (Édouard-Valérie BelFontaine de Jouvernaisinaz)",
 		"unitType": "Civilian",
 		"movement": 1,
-		"uniques": ["Unbuildable","Cannot be purchased","Uncapturable", "Limited to [1] per Civilization", "Gain [30] [Gold] <upon turn start> <when above [50] Happiness>","Gain [15] [Gold] <in [Luxury resource] tiles> <upon turn start> <when above [50] Happiness>","Gain [30] [Gold] <in [Great Improvement] tiles> <upon turn start> <when above [50] Happiness>","Never appears as a Barbarian unit","Comment [It's Édouard-Valérie BelFontaine de Jouvernaisinaz ! When he's happy (and becaus he's really very very rich), he give you a lot of gold!]"]
+		"uniques": ["Unbuildable","Cannot be purchased","Uncapturable", "Limited to [1] per Civilization", "Gain [30] [Gold] <upon turn start> <when above [50] Happiness>","Gain [15] [Gold] <in [Luxury resource] tiles> <upon turn start> <when above [50] Happiness>","Gain [30] [Gold] <in [Great Improvement] tiles> <upon turn start> <when above [50] Happiness>","Never appears as a Barbarian unit","May Paradrop up to [6] tiles from inside friendly territory","Comment [It's Édouard-Valérie BelFontaine de Jouvernaisinaz ! When he's happy (and becaus he's really very very rich), he give you a lot of gold!.Also, he likes the parachute]"]
 	},
 ]
