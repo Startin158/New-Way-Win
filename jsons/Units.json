@@ -9,7 +9,7 @@
   "name": "Happy Citizen (Madeleine)",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": ["Unbuildable","Cannot be purchased","Uncapturable", "Limited to [1] per Civilization", "Gain [10] [Gold] <upon turn start> <when above [30] Happiness>","Gain [5] [Gold] <in [Luxury resource] tiles> <upon turn start> <when above [30] Happiness>","Gain [10] [Gold] <in [Great Improvement] tiles> <upon turn start> <when above [30] Happiness>", "Never appears as a Barbarian unit","Gain [3]-[10] [Culture] <in [City ruins] tiles> <upon turn start>","Comment [It's Madeleine ! When She's happy, she give you gold !(more gold) ! She like history.]"]
+		"uniques": ["Unbuildable","Cannot be purchased","Uncapturable", "Limited to [1] per Civilization", "Gain [10] [Gold] <upon turn start> <when above [30] Happiness>","Gain [5] [Gold] <in [Luxury resource] tiles> <upon turn start> <when above [30] Happiness>","Gain [10] [Gold] <in [Great Improvement] tiles> <upon turn start> <when above [30] Happiness>", "Never appears as a Barbarian unit","Gain [3]-[10] [Culture] <in [Landmark] tiles> <upon turn start>","Comment [It's Madeleine ! When She's happy, she give you gold !(more gold) ! She like history.]"]
 	},
 	{
   "name": "Happy Citizen (Édouard-Valérie BelFontaine de Jouvernaisinaz)",
