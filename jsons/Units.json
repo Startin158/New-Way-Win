@@ -3,6 +3,6 @@
   "name": "Happy Citizen Paul",
 		"unitType": "Civilian",
 		"movement": 1,
-		"uniques": ["Unbuildable","Cannot be purchased","Uncapturable", "Limited to [3] per Civilization", "Gain [3] [Happiness]"]
+		"uniques": ["Unbuildable","Cannot be purchased","Uncapturable", "Limited to [3] per Civilization", "Gain [5] [Gold]","Gain [2] [Gold] <in [Luxury resource] tiles>"]
 	},
 ]
