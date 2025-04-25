@@ -5,8 +5,8 @@
 		"gold": 4,
 		"culture": 2,
 		"happiness": 10,
-		"cost": 2,
-		"uniques": ["Unbuildable <when below [60] Happiness> <when below [60] [Food]> <if [The fertility church] is not constructed","Requires at least [25] population"]
+		"cost": 400,
+		"uniques": ["Unbuildable <when below [60] Happiness>","Unbuilsable <if [The fertility church] is not constructed","Requires at least [30] population","Unbuildable <when [Demographic] Victory is disabled>"]
 	},
 {
 		"name": "The fertility church",
@@ -14,15 +14,15 @@
 		"food": 5,
 		"faith": 3,
 		"happiness": 1,
-		"cost": 3,
-		"uniques": ["Unbuildable <when below [30] Happiness> <when below [30] [Food]>","Unbuildable <if [The altar of joy] is not constructed>","Requires at least [15] population"]
+		"cost": 350,
+		"uniques": ["Unbuildable <when below [30] Happiness> ","Unbuildable <if [The altar of joy] is not constructed>","Requires at least [15] population","Unbuildable <when [Demographic] Victory is disabled>"]
 	},
 {
 		"name": "The altar of joy",
 		"isNationalWonder": true,
 		"happiness": 2,
 		"faith": 4,
-		"cost": 2,
-		"uniques": ["Unbuildable <when below [15] Happiness> <when below [15] [Food]>"]
+		"cost": 250,
+		"uniques": ["Unbuildable <when below [15] Happiness>","Requires at least [8] population","Unbuildable <when [Demographic] Victory is disabled>"]
 	}
 ]
