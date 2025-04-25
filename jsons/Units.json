@@ -1,8 +1,20 @@
 [
 	{
-  "name": "Happy Citizen Paul",
+  "name": "Happy Citizen (Paul)",
 		"unitType": "Civilian",
 		"movement": 1,
-		"uniques": ["Unbuildable","Cannot be purchased","Uncapturable", "Limited to [3] per Civilization", "Gain [5] [Gold] <upon turn start>","Gain [2] [Gold] <in [Luxury resource] tiles> <upon turn start>","Gain [5] [Happiness] <in [Great Improvement] tiles> <upon turn start>"]
+		"uniques": ["Unbuildable","Cannot be purchased","Uncapturable", "Limited to [1] per Civilization", "Gain [5] [Gold] <upon turn start>","Gain [2] [Gold] <in [Luxury resource] tiles> <upon turn start>","Gain [5] [Happiness] <in [Great Improvement] tiles> <upon turn start>","Never appears as a Barbarian unit","Comment [It's Paul ! He's happy so he give you gold !]"
+	},
+	{
+  "name": "Happy Citizen (Michelle)",
+		"unitType": "Civilian",
+		"movement": 1,
+		"uniques": ["Unbuildable","Cannot be purchased","Uncapturable", "Limited to [1] per Civilization", "Gain [5] [Gold] <upon turn start>","Gain [2] [Gold] <in [Luxury resource] tiles> <upon turn start>","Gain [5] [Happiness] <in [Great Improvement] tiles> <upon turn start>","Never appears as a Barbarian unit","Comment [It's Rose ! She's happy so she give you some ressources !]"
+	},
+	{
+  "name": "Happy Citizen (Jean-Édouard BelFontaine de Jouvernaisinaz)",
+		"unitType": "Civilian",
+		"movement": 1,
+		"uniques": ["Unbuildable","Cannot be purchased","Uncapturable", "Limited to [1] per Civilization", "Gain [5] [Gold] <upon turn start>","Gain [2] [Gold] <in [Luxury resource] tiles> <upon turn start>","Gain [5] [Happiness] <in [Great Improvement] tiles> <upon turn start>","Never appears as a Barbarian unit","Comment [It's Paul ! He's happy so he give you gold !]"
 	},
 ]
