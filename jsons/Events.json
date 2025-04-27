@@ -1,4 +1,5 @@
 [
+               // démographic
     {
         "name": "A revolt has broken out",
         "text": "What should we do? The people are unhappy and they want to show it.",
@@ -25,6 +26,26 @@
         "name": "Your population is so happy. Maybe you should take advantage of it?",
         "text": "A happy population accepts certain things more easily... Should we use their happiness for our nation?",
         "uniques": ["Only available <when above [60] Happiness>","Only available <when [Demographic] Victory is enabled>","Only available <every [60] turns>"]
+        "choices": [
+            {
+                "text": "Raise taxes for everyone.",
+                "uniques": ["Gain [-55]-[-30] [Happiness] <for [30] turns>","Gain [150] [Gold] <in [in all cities] cities> <for [2] turns>"],
+            },
+            {
+                "text": "Organize a grand ceremony for the people.",
+                "uniques": ["Gain [+40] [Culture] <in [in all cities] cities> <for [3] turns>","Gain [-65] [Gold] <in [in all cities] cities> <for [3] turns>"],
+            },
+            {
+                "text": "Let's do nothing.",
+                "uniques": ["Gain [1] [Gold]"],
+            },
+        ]
+    },
+               // Scientific
+{
+        "name": "Your population is so happy. Maybe you should take advantage of it?",
+        "text": "A happy population accepts certain things more easily... Should we use their happiness for our nation?",
+        "uniques": ["Only available ","Only available <when [Demographic] Victory is enabled>""]
         "choices": [
             {
                 "text": "Raise taxes for everyone.",
