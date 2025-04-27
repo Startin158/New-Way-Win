@@ -2,11 +2,11 @@
     {
         "name": "A revolt has broken out",
         "text": "What should we do? The people are unhappy and they want to show it.",
-        "uniques": ["Only available <when above [80] Happiness> <when [Demographic] Victory is enabled>","Only available <when below [1] [Paix]>"]
+        "uniques": ["Only available <when above [80] Happiness>","Only available <when [Demographic] Victory is enabled>","Only available <when below [1] [Paix]>"]
         "choices": [
             {
                 "text": "shoot down the revolutionaries",
-                "uniques": ["[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in cities being razed] cities>","[2] free [Brute] units appear <for [Barbarians] Civilizations> <in [in annexed cities] cities>","[1] free [Brute] units appear <for [Barbarians] Civilizations> <in [in puppeted cities] cities>","[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in capital] cities>",""],
+                "uniques": ["[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in cities being razed] cities>","[2] free [Brute] units appear <for [Barbarians] Civilizations> <in [in annexed cities] cities>","[1] free [Brute] units appear <for [Barbarians] Civilizations> <in [in puppeted cities] cities>","[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in capital] cities>","Instantly provides [2] [Paix] <for [35] turns>"],
             },
             {
                 "text": "There is no such thing.",
