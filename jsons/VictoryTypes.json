@@ -24,7 +24,7 @@
     {
         "name": "Historical",
         "victoryScreenHeader": "Explore the world, discover the secrets of the ruins, and fight barbarians\nto win!",
-        "milestones": ["Build [Historical museum]","Build [Home of witnesses]","Add all [spaceship parts] in capital"],
+        "milestones": ["Build [Historical museum]","Build [Home of witnesses]","Add all [Witnesses of ancient civilizations] in capital"],
         "requiredSpaceshipParts": [
             "SS Engine", "SS Stasis Chamber", "SS Cockpit", "SS Booster", "SS Booster", "SS Booster"
         ],
