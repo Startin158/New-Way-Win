@@ -10,7 +10,7 @@
             },
             {
                 "text": "Let them do it. Time will calm them down.",
-                "uniques": ["[-25]% [Production] [in all cities] <for [10] turns>","[-15]% [Science] [in all cities] <for [15] turns>","[-25]% [Gold] [in all cities] <for [20] turns>","Cannot build [Settler] units <for [10] turns>","Nullifies Growth [in all cities] <for [7] turns>","[-15]% Strength <for [25] turns>","Rebel units may spawn <for [4] turns>"],
+                "uniques": ["[-15]% [Production] [in all cities] <for [10] turns>","[-15]% [Science] [in all cities] <for [15] turns>","[-30]% [Gold] [in all cities] <for [20] turns>","Cannot build [Settler] units <for [10] turns>","Nullifies Growth [in all cities] <for [4] turns>","[-15]% Strength <for [25] turns>","Rebel units may spawn <for [4] turns>","Gain [1] [Happiness] <in [in all cities] cities> <for [25] turns>"],
             },
             {
                 "text": "We must calm them down! To do this, we will have to offer them gifts.",
@@ -28,15 +28,15 @@
         "choices": [
             {
                 "text": "Raise taxes for everyone.",
-                "uniques": ["Gain [-20] [Happiness] <for [30] turns>","Gain [150] [Gold] <in [in all cities] cities>],
+                "uniques": ["Gain [-55]-[-30] [Happiness] <for [30] turns>","Gain [150] [Gold] <in [in all cities] cities>" <for [2] turns>],
             },
             {
                 "text": "Organize a grand ceremony for the people.",
-                "uniques": [""],
+                "uniques": ["Gain [+40] [Culture] <in [in all cities] cities> <for [2] turns>",","Gain [-65] [Gold] <in [in all cities] cities> <for [2] turns>"],
             },
             {
                 "text": "Let's do nothing.",
-                "uniques": [""],
+                "uniques": ["Gain [1] [Gold]"],
             },
         ]
     }
