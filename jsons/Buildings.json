@@ -50,7 +50,7 @@
                 "culture": 6,
                 "happiness": 2,
                 "cost": 600,
-                "uniques": ["Consumes [1] [Trace of civilization]","[10]% [Culture] [in all cities]","Only available <if [Historical museum] is constructed in all [non-[Puppeted]] cities>","Only available <when [Historical] Victory is enabled>"],
+                "uniques": ["[10]% [Culture] [in all cities]","Only available <if [Historical museum] is constructed in all [non-[Puppeted]] cities>","Only available <when [Historical] Victory is enabled>"],
                 "requiredTech": "Archaeology",
         },
         {
