@@ -49,7 +49,7 @@
         "choices": [
             {
                 "text": "Accept the proposal.",
-                "uniques": ["Gain [-500]-[500] [Science]","Gain [-200]-[-50] [Gold]"],
+                "uniques": ["Gain [-40]-[40] [Science] <during the [Ancient era]>","Gain [-50]-[-10] [Gold] <during the [Ancient era]>",          "Gain [-150]-[150] [Science] <during the [Classical era]>","Gain [-100]-[40] [Gold] <during the [Classical era]>",         "Gain [-40]-[40] [Science] <during the [Classical era]>","Gain [-50]-[10] [Gold] <during the [Classical era]>",],
             },
             {
                 "text": "Refuses the proposal.",
