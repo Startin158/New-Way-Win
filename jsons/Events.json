@@ -99,7 +99,7 @@
 {
         "name": "As we enter this new era, our religious institution has a new proposal"
         "text": "You can choose to adopt one of these three beliefs. Which one would you choose?",
-        "uniques": [,"Only available <when [Religious] Victory is enabled>","Only available <upon entering the [Medieval era]>"]
+        "uniques": [,"Only available <when [Religious] Victory is enabled>","Only available <upon entering the [Information era]>"]
         "choices": [
             {
                 "text": "",
