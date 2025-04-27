@@ -59,7 +59,8 @@
                 "name": "Home of witnesses",
                 "culture": 4,
                 "happiness": 2,
-                "uniques": ["Only available <when [Historical] Victory is enabled>"],
+                "isNationalWonder": true,
+                "uniques": ["Only available <when [Historical] Victory is enabled>","Unbuildable"],
         },
 
 ]
