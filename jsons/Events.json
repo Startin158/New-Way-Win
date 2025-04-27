@@ -61,7 +61,22 @@
 {
         "name": "A heretic wants to enter our nation"
         "text": "He asks us to enter. Do we agree to let him in? If we do, he might convert, but he might also corrupt our believers...",
-        "uniques": [,"Only available <when [Cultural] Victory is enabled>","Only available <every [60] turns>"]
+        "uniques": [,"Only available <when [Religious] Victory is enabled>","Only available <every [60] turns>"]
+        "choices": [
+            {
+                "text": "Accept the proposal.",
+                "uniques": ["Gain [-40]-[40] [Faith] <during the [Ancient era]>","Gain [-50]-[-10] [Gold] <during the [Ancient era]>",          "Gain [-95]-[95] [Faith] <during the [Classical era]>","Gain [-100]-[40] [Gold] <during the [Classical era]>",         "Gain [-130]-[130] [Faith] <during the [Medieval era]>","Gain [-350]-[80] [Gold] <during the [Medieval era]>",         "Gain [-180]-[180] [Faith] <during the [Renaissance era]>","Gain [-600]-[105] [Gold] <during the [Renaissance era]>",         "Gain [-250]-[250] [Faith] <during the [Industrial era]>","Gain [-800]-[115] [Gold] <during the [Industrial era]>",         "Gain [-500]-[500] [Faith] <during the [Modern era]>","Gain [-850]-[120] [Gold] <during the [Modern era]>",         "Gain [-900]-[900] [Faith] <during the [Modern era]>","Gain [-900]-[122] [Gold] <during the [Modern era]>",        "Gain [-1200]-[1200] [Faith] <during the [Atomic era]>","Gain [-925]-[125] [Gold] <during the [Atomic era]>",        "Gain [-1500]-[1500] [Faith] <during the [Information era]>","Gain [-950]-[130] [Gold] <during the [Information era]>"],
+            },
+            {
+                "text": "Refuses the proposal.",
+                "uniques": ["Gain [3] [Gold]"],
+            },
+        ]
+    },
+{
+        "name": "A heretic wants to enter our nation"
+        "text": "He asks us to enter. Do we agree to let him in? If we do, he might convert, but he might also corrupt our believers...",
+        "uniques": [,"Only available <when [Religious] Victory is enabled>","Only available <every [60] turns>"]
         "choices": [
             {
                 "text": "Accept the proposal.",
