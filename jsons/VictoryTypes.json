@@ -26,7 +26,7 @@
         "victoryScreenHeader": "Explore the world, discover the secrets of the ruins, and fight barbarians\nto win!",
         "milestones": ["Build [Historical museum]","Build [Home of witnesses]","Add all [Witnesses of ancient civilizations] in capital"],
         "requiredSpaceshipParts": [
-            "SS Engine", "SS Stasis Chamber", "SS Cockpit", "SS Booster", "SS Booster", "SS Booster"
+            "Witness of Buguri Civilisation", "Witness of Kracts-Kur Civilisation", "Witness of Baa-Liao Civilisation", "Witness of Lilelle Civilisation", "Witness of Tiru Civilisation"
         ],
         "victoryString": "You have obtained all the proofs gratitude, and you have built 'The Great dirigeants statue' to showcase your happiness superiority to everyone.",
         "defeatString": "You have been defeated, another civilization has proven its superiority over you. From now on, when the world speaks of sadness, everyone will think of you."
