@@ -6,7 +6,7 @@
 		"culture": 2,
 		"happiness": 10,
 		"cost": 400,
-		"uniques": ["Unbuildable <when below [60] Happiness>","Unbuilsable <if [The fertility church] is not constructed","Requires at least [30] population","Unbuildable <when [Demographic] Victory is disabled>"]
+		"uniques": ["Unbuildable <when below [60] Happiness>","Unbuilsable <if [The fertility church] is not constructed","Requires at least [30] population","Only available <when [Demographic] Victory is enabled>"]
 	},
 {
 		"name": "The fertility church",
@@ -15,7 +15,7 @@
 		"faith": 3,
 		"happiness": 1,
 		"cost": 350,
-		"uniques": ["Unbuildable <when below [30] Happiness> ","Unbuildable <if [The altar of joy] is not constructed>","Requires at least [15] population","Unbuildable <when [Demographic] Victory is disabled>"]
+		"uniques": ["Unbuildable <when below [30] Happiness> ","Unbuildable <if [The altar of joy] is not constructed>","Requires at least [15] population","Only available <when [Demographic] Victory is enabled>"]
 	},
 {
 		"name": "The altar of joy",
@@ -23,7 +23,7 @@
 		"happiness": 2,
 		"faith": 4,
 		"cost": 250,
-		"uniques": ["Unbuildable <when below [15] Happiness>","Requires at least [8] population","Unbuildable <when [Demographic] Victory is disabled>"]
+		"uniques": ["Unbuildable <when below [15] Happiness>","Requires at least [8] population","Only available <when [Demographic] Victory is enabled>"]
 	},
  {
 		"name": "The Grand Museum of Luxury Resources",
@@ -62,37 +62,7 @@
 		"cost": 750,
 		"requiredTech": "Advanced Ballistics",
 		"requiredResource": "Aluminum",
-		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [3] per Civilization"]
-		// costs 1500 in BNW
+		"uniques": ["Witnesses of ancient civilizations", "Cannot be purchased", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization","Only available <when [victoryType] Victory is enabled>"]
 	},
-	{
-		"name": "SS Cockpit",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 750,
-		"requiredTech": "Satellites",
-		"requiredResource": "Aluminum",
-		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
-		// costs 1500 in BNW
-	},
-	{
-		"name": "SS Engine",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 750,
-		"requiredTech": "Particle Physics",
-		"requiredResource": "Aluminum",
-		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
-		// costs 1500 in BNW
-	},
-	{
-		"name": "SS Stasis Chamber",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 750,
-		"requiredTech": "Nanotechnology",
-		"requiredResource": "Aluminum",
-		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
-		// costs 1500 in BNW
-	}
+
 ]
