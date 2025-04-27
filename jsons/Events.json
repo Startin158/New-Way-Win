@@ -43,20 +43,16 @@
     },
                // Scientific
 {
-        "name": "Your population is so happy. Maybe you should take advantage of it?",
-        "text": "A happy population accepts certain things more easily... Should we use their happiness for our nation?",
-        "uniques": ["Only available ","Only available <when [Demographic] Victory is enabled>""]
+        "name": "A strange man who calls himself a scientist makes us a strange proposition.",
+        "text": "He asks us to fund his scientific research, claiming that this can help us discover new technologies faster. Do we accept?",
+        "uniques": [,"Only available <when [Demographic] Victory is enabled>","Only available <every [50] turns>"]
         "choices": [
             {
-                "text": "Raise taxes for everyone.",
-                "uniques": ["Gain [-55]-[-30] [Happiness] <for [30] turns>","Gain [150] [Gold] <in [in all cities] cities> <for [2] turns>"],
+                "text": "Accept the proposal.",
+                "uniques": ["Gain [-500]-[500] [Science]","Gain [-200]-[-50] [Gold]"],
             },
             {
-                "text": "Organize a grand ceremony for the people.",
-                "uniques": ["Gain [+40] [Culture] <in [in all cities] cities> <for [3] turns>","Gain [-65] [Gold] <in [in all cities] cities> <for [3] turns>"],
-            },
-            {
-                "text": "Let's do nothing.",
+                "text": "Refuses the proposal.",
                 "uniques": ["Gain [1] [Gold]"],
             },
         ]
