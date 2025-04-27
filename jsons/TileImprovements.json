@@ -12,5 +12,15 @@
   "culture": 6,
                 "uniques": ["Provides [4] [Trace of civilization]","Pillaging this improvement yields approximately [+50 Gold]"],
                 "shortcutKey": "O"
-        }
+        },
+{ 
+                "name": "Barbarian encampment", 
+                "terrainsCanBeBuiltOn": ["Land"],
+                "uniques": [
+                        "Unpillagable",
+                        "Unbuildable",
+                        "Provides a random bonus when entered",
+                        "Excluded from map editor"],
+        "civilopediaText": [{"text": "Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
+},
 ]
