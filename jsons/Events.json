@@ -1,19 +1,12 @@
 [
     {
-        "name": "Revolt",
-        "text": "How should we respond to other countries that have incited rebellion against our country?",
+        "name": "A revolt has broken out",
+        "text": "What should we do? The people are unhappy and they want to show it.",
         "uniques": ["Only available <when above [80] Happiness> <when [Demographic] Victory is enabled>","Unavailable <if tutorial [Move unit] is completed>","Only available <when below [1] [Paix]>"]
         "choices": [
             {
-                "text": "Put them down!",
-                "uniques": [
-                "[-20]% [Production] [in all cities] <for [5] turns>",
-                "[-33]% [Science] [in all cities] <for [5] turns>",
-                "[-33]% [Gold] [in all cities] <for [5] turns>",
-                "[+25]% Unhappiness from [Population] [in all cities] <for [7] turns>",
-                "Instantly provides [10] [Confrontation value] <hidden from users>",
-                "Rebel units may spawn <for [10] turns>",
-                ],
+                "text": "shoot down the revolutionaries",
+                "uniques": [],
             },
             {
                 "text": "There is no such thing.",
