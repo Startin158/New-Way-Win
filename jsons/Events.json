@@ -49,7 +49,7 @@
         "choices": [
             {
                 "text": "Accept the proposal.",
-                "uniques": ["Gain [-40]-[40] [Science] <during the [Ancient era]>","Gain [-50]-[-10] [Gold] <during the [Ancient era]>",          "Gain [-150]-[150] [Science] <during the [Classical era]>","Gain [-100]-[40] [Gold] <during the [Classical era]>",         "Gain [-40]-[40] [Science] <during the [Classical era]>","Gain [-50]-[10] [Gold] <during the [Classical era]>",],
+                "uniques": ["Gain [-40]-[40] [Science] <during the [Ancient era]>","Gain [-50]-[-10] [Gold] <during the [Ancient era]>",          "Gain [-150]-[150] [Science] <during the [Classical era]>","Gain [-100]-[40] [Gold] <during the [Classical era]>",         "Gain [-400]-[400] [Science] <during the [Medieval era]>","Gain [-350]-[80] [Gold] <during the [Medieval era]>",         "Gain [-1000]-[1000] [Science] <during the [Renaissance era]>","Gain [-600]-[105] [Gold] <during the [Renaissance era]>",         "Gain [-2000]-[2000] [Science] <during the [Industrial era]>","Gain [-800]-[115] [Gold] <during the [Industrial era]>",         "Gain [-3900]-[3900] [Science] <during the [Modern era]>","Gain [-850]-[120] [Gold] <during the [Modern era]>",         "Gain [-4000]-[4000] [Science] <during the [Modern era]>","Gain [-900]-[122] [Gold] <during the [Modern era]>",        "Gain [-6000]-[6000] [Science] <during the [Atomic era]>","Gain [-925]-[125] [Gold] <during the [Atomic era]>",        "Gain [-7000]-[7000] [Science] <during the [Information era]>","Gain [-950]-[130] [Gold] <during the [Information era]>"],
             },
             {
                 "text": "Refuses the proposal.",
