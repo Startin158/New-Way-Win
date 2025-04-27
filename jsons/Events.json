@@ -2,7 +2,7 @@
     {
         "name": "A revolt has broken out",
         "text": "What should we do? The people are unhappy and they want to show it.",
-        "uniques": ["Only available <when above [80] Happiness> <when [Demographic] Victory is enabled>","Unavailable <if tutorial [Move unit] is completed>","Only available <when below [1] [Paix]>"]
+        "uniques": ["Only available <when above [80] Happiness> <when [Demographic] Victory is enabled>","Only available <when below [1] [Paix]>"]
         "choices": [
             {
                 "text": "shoot down the revolutionaries",
