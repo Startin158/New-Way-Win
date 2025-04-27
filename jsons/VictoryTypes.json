@@ -14,7 +14,7 @@
         "defeatString": "You have been defeated, another civilization has proven its superiority over you. From now on, when the world speaks of sadness, everyone will think of you."
     },
             {
-        "name": "Religious",//it's not mine, it's comme from philosophy mod
+        "name": "Religious",//it's not mine, it's comme from philosophy mod (no, it comme from so many mob)
         "hiddenInVictoryScreen": false,
                 "victoryScreenHeader": "Gain 50% of your religion followers\nin every city of the world!",
         "milestones": ["Become the world religion"],
