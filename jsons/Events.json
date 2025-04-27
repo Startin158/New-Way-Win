@@ -14,12 +14,7 @@
             },
             {
                 "text": "We must calm them down! To do this, we will have to offer them gifts.",
-                "uniques": []
-
-
-                "Instantly provides [10] [Confrontation value] <hidden from users>",
-                "Rebel units may spawn <for [10] turns>",
-                ],
+                "uniques": ["Instantly provides [2] [Paix] <for [90] turns>", ],
             },
         ]
     }
