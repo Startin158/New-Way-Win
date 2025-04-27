@@ -14,7 +14,7 @@
             },
             {
                 "text": "We must calm them down! To do this, we will have to offer them gifts.",
-                "uniques": ["Instantly provides [2] [Paix] <for [90] turns>", ],
+                "uniques": ["Instantly provides [2] [Paix] <for [90] turns>","Gain [-65] [Gold] <in [in annexed cities] cities>","Gain [-120] [Gold] <in [in all cities] cities>","Empire enters a [25]-turn Golden Age"],
             },
         ]
     }
