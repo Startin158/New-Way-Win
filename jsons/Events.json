@@ -28,11 +28,11 @@
         "choices": [
             {
                 "text": "Raise taxes for everyone.",
-                "uniques": ["Gain [-55]-[-30] [Happiness] <for [30] turns>","Gain [150] [Gold] <in [in all cities] cities>" <for [2] turns>],
+                "uniques": ["Gain [-55]-[-30] [Happiness] <for [30] turns>","Gain [150] [Gold] <in [in all cities] cities> <for [2] turns>"],
             },
             {
                 "text": "Organize a grand ceremony for the people.",
-                "uniques": ["Gain [+40] [Culture] <in [in all cities] cities> <for [2] turns>",","Gain [-65] [Gold] <in [in all cities] cities> <for [2] turns>"],
+                "uniques": ["Gain [+40] [Culture] <in [in all cities] cities> <for [3] turns>","Gain [-65] [Gold] <in [in all cities] cities> <for [3] turns>"],
             },
             {
                 "text": "Let's do nothing.",
