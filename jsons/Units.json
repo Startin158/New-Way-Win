@@ -17,4 +17,11 @@
 		"movement": 2,
 		"uniques": ["Unbuildable","Cannot be purchased","Uncapturable", "Limited to [1] per Civilization", "Gain [30] [Gold] <upon turn start> <when above [50] Happiness>","Gain [15] [Gold] <in [Luxury resource] tiles> <upon turn start> <when above [50] Happiness>","Gain [30] [Gold] <in [Great Improvement] tiles> <upon turn start> <when above [50] Happiness>","Never appears as a Barbarian unit","May Paradrop up to [6] tiles from inside friendly territory","Gain [10]-[30] [Culture] <in [City ruins] tiles> <upon turn start>","Comment [It's Édouard-Valérie BelFontaine de Jouvernaisinaz ! When he's happy (and becaus he's really very very rich), he give you a lot of gold!.Also, he likes war]"]
 	},
+{
+                "name": "Historian",
+         "unitType": "Civilian",
+  "requiredTech": "Archaeology",
+                "movement": 2,
+                "cost": 200,
+  "uniques": ["Great Person - [Worker]","Can instantly construct a [Tourist site: forgotten civilization] improvement <by consuming this unit>","Can instantly construct a [Tourist site: destroyed civilization] improvement <by consuming this unit> <in [City ruins] tiles>"]
 ]
