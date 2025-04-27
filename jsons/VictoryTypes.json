@@ -23,8 +23,8 @@
     }
     {
         "name": "Historical",
-        "victoryScreenHeader": "Make your people happy, and build 'proofs of gratitude' to prove\nto win!",
-        "milestones": ["Build [Museum of civilizations]"],
+        "victoryScreenHeader": "Explore the world, discover the secrets of the ruins, and fight barbarians\nto win!",
+        "milestones": ["Build [Museum of civilizations]","Build []"],
         "victoryString": "You have obtained all the proofs gratitude, and you have built 'The Great dirigeants statue' to showcase your happiness superiority to everyone.",
         "defeatString": "You have been defeated, another civilization has proven its superiority over you. From now on, when the world speaks of sadness, everyone will think of you."
     },
