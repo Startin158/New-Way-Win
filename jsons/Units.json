@@ -24,4 +24,11 @@
                 "movement": 2,
                 "cost": 200,
   "uniques": ["Great Person - [Worker]","Can instantly construct a [Tourist site: forgotten civilization] improvement <by consuming this unit>","Can instantly construct a [Tourist site: destroyed civilization] improvement <by consuming this unit> <in [City ruins] tiles>"]
+ },
+{
+                "name": "Dimensional Shifter",
+                "unitType": "Civilian",
+                "movement": 2,
+                "uniques": ["Comment [Witnesses of ancient civilizations]", "Cannot be purchased", "Uncapturable", "Can be added to [The Time Machine] in the Capital", "Limited to [1] per Civilization","Only available <when [victoryType] Victory is enabled>"]
+        },
 ]
