@@ -1,0 +1,14 @@
+{
+                "name": "Tourist site: forgotten civilization",
+                "science": 2,
+  "culture": 3,
+                "uniques": ["Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]"],
+                "shortcutKey": "O"
+        },
+{
+                "name": "Tourist site: destroyed civilization",
+         "terrainsCanBeBuiltOn": ["Land"],
+  "culture": 6,
+                "uniques": ["Provides [4] [Trace of civilization]","Pillaging this improvement yields approximately [+50 Gold]"],
+                "shortcutKey": "O"
+        },
