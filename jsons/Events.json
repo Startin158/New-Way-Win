@@ -14,7 +14,7 @@
             },
             {
                 "text": "We must calm them down! To do this, we will have to offer them gifts.",
-                "uniques": ["Gain [-65] [Gold] <in [in annexed cities] cities>","Gain [-120] [Gold] <in [in all cities] cities>","Empire enters a [10]-turn Golden Age",""],
+                "uniques": ["Gain [-65] [Gold] <in [in annexed cities] cities>","Gain [-120] [Gold] <in [in all cities] cities>","Empire enters a [10]-turn Golden Age","Gain [5] [Happiness] <in [in all cities] cities> <for [30] turns>","Gain [5] [Happiness] <in [in all cities] cities> <for [4] turns>"],
             },
         ]
     },
@@ -28,14 +28,14 @@
         "choices": [
             {
                 "text": "Raise taxes for everyone.",
+                "uniques": ["Gain [-20] [Happiness] <for [30] turns>","Gain [150] [Gold] <in [in all cities] cities>],
+            },
+            {
+                "text": "Organize a grand ceremony for the people.",
                 "uniques": [""],
             },
             {
-                "text": "Let them do it. Time will calm them down.",
-                "uniques": [""],
-            },
-            {
-                "text": "We must calm them down! To do this, we will have to offer them gifts.",
+                "text": "Let's do nothing.",
                 "uniques": [""],
             },
         ]
