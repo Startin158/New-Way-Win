@@ -36,4 +36,21 @@
 		"cost": 1,
 		"uniques": ["Only available <when [Luxurious] Victory is enabled>","Consumes [1] [Furs]","Consumes [1] [Gold Ore]","Consumes [1] [Gems]","Consumes [1] [Dyes]","Consumes [1] [Cotton]","Consumes [1] [Silver]","Consumes [1] [Spices]","Consumes [1] [Silk]","Consumes [1] [Ivory]","Consumes [1] [Incense]","Consumes [1] [Pearls]","Consumes [1] [Whales]","Consumes [1] [Marble]","Consumes [1] [Sugar]","Consumes [1] [Wine]","Consumes [1] [Truffles]","Consumes [1] [Salt]","Consumes [1] [Crab]","Consumes [1] [Copper]","Consumes [1] [Citrus]"]
 	},
+{
+                "name": "Historical museum",
+                "culture": 2,
+  "happiness": 1,
+                "greatPersonPoints": {"Great Artist": 1},
+                "uniques": ["Consumes [1] [Trace of civilization]","[30]% [Culture] [in this city]"],
+                "requiredTech": "Archaeology",
+                "quote": "Ils faut absolument avoir une bâtiment pour pouvoir gérer les créations des grandes entreprises, alors construisez le !"
+        }
+{
+                "name": "Museum",
+                "culture": 6,
+  "happiness": 2,
+                "greatPersonPoints": {"Great Artist": 4},
+                "uniques": ["Consumes [1] [Trace of civilization]","[10]% [Culture] [in all cities]"],
+                "requiredTech": "Archaeology",
+        }
 ]
