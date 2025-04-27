@@ -16,5 +16,6 @@
 {
                 "name": "Paix",
                 "resourceType": "Bonus",
+                "uniques": "Stockpiled"
 }
 ]
