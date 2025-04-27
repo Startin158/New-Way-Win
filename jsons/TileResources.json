@@ -12,10 +12,4 @@
                                         "Generated on every [18] tiles <in [{Featureless} {Tundra}] tiles> <in [Hill] Regions>","Generated on every [24] tiles <in [{Featureless} {Desert}] tiles>",
                                         "Generated on every [20] tiles <in [{Featureless} {Desert}] tiles> <in [Hill] Regions>"]
         },
-
-{
-                "name": "Paix",
-                "resourceType": "Bonus",
-                "uniques": "Stockpiled"
-}
 ]
