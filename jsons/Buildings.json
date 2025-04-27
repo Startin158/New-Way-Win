@@ -42,7 +42,7 @@
                 "happiness": 1,
                 "cost": 300,
                 "greatPersonPoints": {"Great Artist": 1},
-                "uniques": ["Consumes [1] [Trace of civilization]","[30]% [Culture] [in this city]"],
+                "uniques": ["Consumes [1] [Trace of civilization]","[30]% [Culture] [in this city]","Only available <when [Historical] Victory is enabled>"],
                 "requiredTech": "Archaeology",
                 "quote": "Ils faut absolument avoir une bâtiment pour pouvoir gérer les créations des grandes entreprises, alors construisez le !"
         }
@@ -52,17 +52,14 @@
                 "happiness": 2,
                 "cost": 600,
                 "greatPersonPoints": {"Great Artist": 4},
-                "uniques": ["Consumes [1] [Trace of civilization]","[10]% [Culture] [in all cities]","Only available <if [Historical museum] is constructed in all [non-[Puppeted]] cities>"],
+                "uniques": ["Consumes [1] [Trace of civilization]","[10]% [Culture] [in all cities]","Only available <if [Historical museum] is constructed in all [non-[Puppeted]] cities>","Only available <when [Historical] Victory is enabled>"],
                 "requiredTech": "Archaeology",
         },
         {
-		"name": "SS Booster",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 750,
-		"requiredTech": "Advanced Ballistics",
-		"requiredResource": "Aluminum",
-		"uniques": ["Witnesses of ancient civilizations", "Cannot be purchased", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization","Only available <when [victoryType] Victory is enabled>"]
-	},
+                "name": "Home of witnesses",
+                "culture": 4,
+                "happiness": 2,
+                "uniques": ["Only available <when [Historical] Victory is enabled>"],
+        },
 
 ]
