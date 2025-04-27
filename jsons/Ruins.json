@@ -1,1 +1,22 @@
-e
+[
+    {
+    "name": "we found someone in the ruins",
+        "notification": "A person from an ancient civilization has joined us!",
+        "uniques": ["Free [Entrepreneur] found in the ruins","Only available <after turn number [30]>","Only available <when [Historical] Victory is enabled>"],
+   },
+{
+    "name": "we found someone in the ruins",
+        "notification": "A person from an ancient civilization has joined us!",
+        "uniques": ["Free [Entrepreneur] found in the ruins","Only available <after turn number [80]>","Only available <when [Historical] Victory is enabled>"],
+   },
+{
+    "name": "we found someone in the ruins",
+        "notification": "A person from an ancient civilization has joined us!",
+        "uniques": ["Free [Entrepreneur] found in the ruins","Only available <after turn number [130]>","Only available <when [Historical] Victory is enabled>"],
+   },
+{
+    "name": "we found someone in the ruins",
+        "notification": "A person from an ancient civilization has joined us!",
+        "uniques": ["Free [Entrepreneur] found in the ruins","Only available <after turn number [180]>","Only available <when [Historical] Victory is enabled>"],
+   },
+]
