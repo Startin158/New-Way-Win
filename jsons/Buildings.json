@@ -46,11 +46,11 @@
                 "quote": "Ils faut absolument avoir une bâtiment pour pouvoir gérer les créations des grandes entreprises, alors construisez le !"
         }
 {
-                "name": "Museum",
+                "name": "Museum of civilizations",
                 "culture": 6,
   "happiness": 2,
                 "greatPersonPoints": {"Great Artist": 4},
-                "uniques": ["Consumes [1] [Trace of civilization]","[10]% [Culture] [in all cities]"],
+                "uniques": ["Consumes [1] [Trace of civilization]","[10]% [Culture] [in all cities]","Only available <if [Historical museum] is constructed in all [non-[Puppeted]] cities>"],
                 "requiredTech": "Archaeology",
         }
 ]
