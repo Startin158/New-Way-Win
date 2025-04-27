@@ -6,7 +6,7 @@
         "choices": [
             {
                 "text": "Shoot down the revolutionaries. The war begins",
-                "uniques": ["[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in cities being razed] cities>","[2] free [Brute] units appear <for [Barbarians] Civilizations> <in [in annexed cities] cities>","[1] free [Brute] units appear <for [Barbarians] Civilizations> <in [in puppeted cities] cities>","[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in capital] cities>","Instantly provides [2] [Paix] <for [30] turns>"],
+                "uniques": ["[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in cities being razed] cities>","[2] free [Brute] units appear <for [Barbarians] Civilizations> <in [in annexed cities] cities>","[1] free [Brute] units appear <for [Barbarians] Civilizations> <in [in puppeted cities] cities>","[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in capital] cities>","Instantly provides [2] [Paix] <for [30] turns>","Rebel units may spawn <for [10] turns>"],
             },
             {
                 "text": "Let them do it. Time will calm them down.",
