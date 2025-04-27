@@ -1,0 +1,15 @@
+[
+{
+                "name": "Trace of civilization",
+                 "resourceType": "Strategic",
+  "revealedBy": "Archaeology",
+                "terrainsCanBeFoundOn": ["Snow","Tundra","Desert"],
+                "culture": 1,
+                "improvement": "Tourist site: forgotten civilization",
+                "improvementStats": {"Gold": 1},
+                "uniques": ["Generated on every [18] tiles <in [{Featureless} {Snow}] tiles>",
+                                        "Generated on every [16] tiles <in [{Featureless} {Snow}] tiles> <in [Hill] Regions>","Generated on every [22] tiles <in [{Featureless} {Tundra}] tiles>",
+                                        "Generated on every [18] tiles <in [{Featureless} {Tundra}] tiles> <in [Hill] Regions>","Generated on every [24] tiles <in [{Featureless} {Desert}] tiles>",
+                                        "Generated on every [20] tiles <in [{Featureless} {Desert}] tiles> <in [Hill] Regions>"]
+        }
+]
