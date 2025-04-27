@@ -59,8 +59,8 @@
     },
              // Religious
 {
-        "name": "A strange man who calls himself a scientist makes us a strange proposition.",
-        "text": "He asks us to fund his scientific research, claiming that this can help us discover new technologies faster. Do we accept?",
+        "name": "A heretic wants to enter our nation"
+        "text": "He asks us to enter. Do we agree to let him in? If we do, he might convert, but he might also corrupt our believers...",
         "uniques": [,"Only available <when [Cultural] Victory is enabled>","Only available <every [60] turns>"]
         "choices": [
             {
