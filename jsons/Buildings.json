@@ -39,7 +39,8 @@
 {
                 "name": "Historical museum",
                 "culture": 2,
-  "happiness": 1,
+                "happiness": 1,
+                "cost": 300,
                 "greatPersonPoints": {"Great Artist": 1},
                 "uniques": ["Consumes [1] [Trace of civilization]","[30]% [Culture] [in this city]"],
                 "requiredTech": "Archaeology",
@@ -48,7 +49,8 @@
 {
                 "name": "Museum of civilizations",
                 "culture": 6,
-  "happiness": 2,
+                "happiness": 2,
+                "cost": 600,
                 "greatPersonPoints": {"Great Artist": 4},
                 "uniques": ["Consumes [1] [Trace of civilization]","[10]% [Culture] [in all cities]","Only available <if [Historical museum] is constructed in all [non-[Puppeted]] cities>"],
                 "requiredTech": "Archaeology",
