@@ -17,6 +17,28 @@
                 "uniques": ["Instantly provides [2] [Paix] <for [90] turns>","Gain [-65] [Gold] <in [in annexed cities] cities>","Gain [-120] [Gold] <in [in all cities] cities>","Empire enters a [25]-turn Golden Age"],
             },
         ]
+    },
+
+
+
+{
+        "name": "A revolt has broken out",
+        "text": "What should we do? The people are unhappy and they want to show it.",
+        "uniques": ["Only available <when above [80] Happiness>","Only available <when [Demographic] Victory is enabled>","Only available <every [50] turns>"]
+        "choices": [
+            {
+                "text": "Shoot down the revolutionaries. The war begins",
+                "uniques": ["[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in cities being razed] cities>","[2] free [Brute] units appear <for [Barbarians] Civilizations> <in [in annexed cities] cities>","[1] free [Brute] units appear <for [Barbarians] Civilizations> <in [in puppeted cities] cities>","[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in capital] cities>","Instantly provides [2] [Paix] <for [30] turns>","Rebel units may spawn <for [10] turns>"],
+            },
+            {
+                "text": "Let them do it. Time will calm them down.",
+                "uniques": ["[-25]% [Production] [in all cities] <for [10] turns>","[-15]% [Science] [in all cities] <for [15] turns>","[-25]% [Gold] [in all cities] <for [20] turns>","Cannot build [Settler] units <for [10] turns>","Nullifies Growth [in all cities] <for [7] turns>","[-15]% Strength <for [25] turns>","Rebel units may spawn <for [4] turns>","Instantly provides [2] [Paix] <for [60] turns>"],
+            },
+            {
+                "text": "We must calm them down! To do this, we will have to offer them gifts.",
+                "uniques": ["Instantly provides [2] [Paix] <for [90] turns>","Gain [-65] [Gold] <in [in annexed cities] cities>","Gain [-120] [Gold] <in [in all cities] cities>","Empire enters a [25]-turn Golden Age"],
+            },
+        ]
     }
 ]	
 
