@@ -49,4 +49,10 @@
                 "movement": 2,
                 "uniques": ["Comment [Witnesses of ancient civilizations]", "Cannot be purchased", "Uncapturable", "Can be added to [Home of witnesses] in the Capital", "Limited to [1] per Civilization","Only available <when [Historical] Victory is enabled>"]
         },
+{
+                "name": "Witness of Tiru Civilisation",
+                "unitType": "Civilian",
+                "movement": 2,
+                "uniques": ["Comment [Witnesses of ancient civilizations]", "Cannot be purchased", "Uncapturable", "Can be added to [Home of witnesses] in the Capital", "Limited to [1] per Civilization","Only available <when [Historical] Victory is enabled>"]
+        },
 ]
