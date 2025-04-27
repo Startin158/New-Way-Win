@@ -6,7 +6,7 @@
         "choices": [
             {
                 "text": "shoot down the revolutionaries",
-                "uniques": ["[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in cities being razed] cities>","[2] free [Brute] units appear <for [Barbarians] Civilizations> <in [in annexed cities] cities>","[1] free [Brute] units appear <for [Barbarians] Civilizations> <in [in puppeted cities] cities>","",""],
+                "uniques": ["[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in cities being razed] cities>","[2] free [Brute] units appear <for [Barbarians] Civilizations> <in [in annexed cities] cities>","[1] free [Brute] units appear <for [Barbarians] Civilizations> <in [in puppeted cities] cities>","[3] free [Brute] units appear <for [Barbarians] Civilizations> <in [in capital] cities>",""],
             },
             {
                 "text": "There is no such thing.",
