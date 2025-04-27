@@ -45,7 +45,7 @@
 {
         "name": "A strange man who calls himself a scientist makes us a strange proposition.",
         "text": "He asks us to fund his scientific research, claiming that this can help us discover new technologies faster. Do we accept?",
-        "uniques": [,"Only available <when [Demographic] Victory is enabled>","Only available <every [50] turns>"]
+        "uniques": [,"Only available <when [Scientific] Victory is enabled>","Only available <every [50] turns>"]
         "choices": [
             {
                 "text": "Accept the proposal.",
