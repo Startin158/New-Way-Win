@@ -2,7 +2,7 @@
     {
         "name": "Revolt",
         "text": "How should we respond to other countries that have incited rebellion against our country?",
-        "uniques": ["Only available <when above [80] Happiness> <when [Demographic] Victory is enabled>","Unavailable <if tutorial [Move unit] is completed>"]
+        "uniques": ["Only available <when above [80] Happiness> <when [Demographic] Victory is enabled>","Unavailable <if tutorial [Move unit] is completed>","Only available <when below [1] [stat/resource]>"]
         "choices": [
             {
                 "text": "Put them down!",
@@ -51,3 +51,6 @@
         ]
     }
 ]	
+
+
+	
