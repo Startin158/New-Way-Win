@@ -79,20 +79,16 @@
         "uniques": [,"Only available <when [Religious] Victory is enabled>","Only available <upon entering the [Medieval era]>"]
         "choices": [
             {
-                "text": "",
-                "uniques": []
+                "text": "Adopte a free enhancer belief",
+                "uniques": [Gain a free [Enhancer] belief]
             },
             {
-                "text": "",
-                "uniques": [],
+                "text": "Adopte a free founder belief",
+                "uniques": [Gain a free [Founder] belief],
             },
             {
-                "text": "",
-                "uniques": []
-            },
-            {
-                "text": "None of these ? (there is no reward)",
-                "uniques": []
+                "text": "Adopte a free follower belief",
+                "uniques": [Gain a free [Follower] belief]
             },
         ]
     }
@@ -102,20 +98,16 @@
         "uniques": [,"Only available <when [Religious] Victory is enabled>","Only available <upon entering the [Modern era]>"]
         "choices": [
             {
-                "text": "",
-                "uniques": []
+                "text": "Adopte a free enhancer belief",
+                "uniques": [Gain a free [Enhancer] belief]
             },
             {
-                "text": "",
-                "uniques": [],
+                "text": "Adopte a free founder belief",
+                "uniques": [Gain a free [Founder] belief],
             },
             {
-                "text": "",
-                "uniques": []
-            },
-            {
-                "text": "None of these ? (there is no reward)",
-                "uniques": []
+                "text": "Adopte a free follower belief",
+                "uniques": [Gain a free [Follower] belief]
             },
         ]
     }
