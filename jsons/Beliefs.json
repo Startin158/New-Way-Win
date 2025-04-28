@@ -7,7 +7,7 @@
 {
         "name": "Cult of war",
         "type": "Follower",
-        "uniques": ["Only available <after discovering [Iron Working]>","[+1 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
+        "uniques": ["Only available <after discovering [Iron Working]>","May buy [Castle] buildings for [100] [Faith] [in all cities]","[+2 Faith] from all [Castle] buildings","[+2 Culture] from all [Castle] buildings","[+1 Happiness] from all [Castle] buildings"]
     },
     {
         "name": "Cult of war",
