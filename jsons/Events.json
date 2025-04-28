@@ -80,15 +80,15 @@
         "choices": [
             {
                 "text": "Adopte a free enhancer belief",
-                "uniques": [Gain a free [Enhancer] belief]
+                "uniques": ["Gain a free [Enhancer] belief"]
             },
             {
                 "text": "Adopte a free founder belief",
-                "uniques": [Gain a free [Founder] belief],
+                "uniques": ["Gain a free [Founder] belief"],
             },
             {
                 "text": "Adopte a free follower belief",
-                "uniques": [Gain a free [Follower] belief]
+                "uniques": ["Gain a free [Follower] belief"]
             },
         ]
     }
@@ -99,18 +99,35 @@
         "choices": [
             {
                 "text": "Adopte a free enhancer belief",
-                "uniques": [Gain a free [Enhancer] belief]
+                "uniques": ["Gain a free [Enhancer] belief"]
             },
             {
                 "text": "Adopte a free founder belief",
-                "uniques": [Gain a free [Founder] belief],
+                "uniques": ["Gain a free [Founder] belief"],
             },
             {
                 "text": "Adopte a free follower belief",
-                "uniques": [Gain a free [Follower] belief]
+                "uniques": ["Gain a free [Follower] belief"]
             },
         ]
     }
+
+               // Cultural
+{
+        "name": "A major diplomatic visit"
+        "text": "All the neighboring nations will be coming to the capital for diplomatic reasons. But we could take advantage of this opportunity to organize a grand ceremony to showcase our proud culture...",
+        "uniques": [,"Only available <when [Cultural] Victory is enabled>","Only available <every [55] turns>"]
+        "choices": [
+            {
+                "text": "Organize large ceremonies.",
+                "uniques": ["Gain [0]-[10] [Culture] <during the [Ancient era]>","Gain [-50]-[-10] [Gold] <during the [Ancient era]>",          "Gain [-1]-[20] [Culture] <during the [Classical era]>","Gain [-100]-[40] [Gold] <during the [Classical era]>",         "Gain [-2]-[40] [Culture] <during the [Medieval era]>","Gain [-350]-[80] [Gold] <during the [Medieval era]>",         "Gain [-5]-[80] [Culture] <during the [Renaissance era]>","Gain [-600]-[105] [Gold] <during the [Renaissance era]>",         "Gain [-10]-[120] [Faith] <during the [Industrial era]>","Gain [-800]-[115] [Gold] <during the [Industrial era]>",         "Gain [-20]-[180] [Faith] <during the [Modern era]>","Gain [-850]-[120] [Gold] <during the [Modern era]>",         "Gain [-40]-[220] [Culture] <during the [Modern era]>","Gain [-900]-[122] [Gold] <during the [Modern era]>",        "Gain [-60]-[280] [Culture] <during the [Atomic era]>","Gain [-925]-[125] [Gold] <during the [Atomic era]>",        "Gain [-80]-[320] [Culture] <during the [Information era]>","Gain [-950]-[130] [Gold] <during the [Information era]>"],
+            },
+            {
+                "text": "Refuses.",
+                "uniques": ["Gain [2] [Gold]"],
+            },
+        ]
+    },
 ]	
 
 
