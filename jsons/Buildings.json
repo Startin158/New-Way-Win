@@ -6,7 +6,7 @@
 		"culture": 2,
 		"happiness": 10,
 		"cost": 400,
-		"uniques": ["Unbuildable <when below [60] Happiness>","Unbuilsable <if [The fertility church] is not constructed>","Requires at least [30] population","Only available <when [Demographic] Victory is enabled>"]
+		"uniques": ["Unbuildable <when below [60] Happiness>","Unbuildable <if [The fertility church] is not constructed>","Requires at least [30] population","Only available <when [Demographic] Victory is enabled>"]
 	},
 {
 		"name": "The fertility church",
