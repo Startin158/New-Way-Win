@@ -1,0 +1,17 @@
+[
+{
+        "name": "Religious Texts",
+        "type": "Enhancer",
+        "uniques": ["Only available <upon entering the [era]>","Earn [15]% of [Military] unit's [Strength] as [Culture]", "Earn [100]% of [Military] unit's [Strength] as [Faith]"]
+    },
+{
+        "name": "Asceticism",
+        "type": "Follower",
+        "uniques": ["Only available <upon entering the [era]>","[+1 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
+    },
+    {
+        "name": "Papal Primacy",
+        "type": "Founder",
+        "uniques": ["Only available <upon entering the [era]>","Resting point for Influence with City-States following this religion [+15]"]
+    },
+]
