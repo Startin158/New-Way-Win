@@ -24,4 +24,9 @@
         "notification": "A person from an ancient civilization has joined us!",
         "uniques": ["Free [Witness of Lilelle Civilisation] found in the ruins","Only available <after turn number [180]>","Only available <when [Historical] Victory is enabled>"],
    },
+{
+    "name": "we found a building in the ruins",
+        "notification": "A building from an ancient civilization has been constructed!",
+        "uniques": ["Gain a free [Monument] [in capital]","Only available <when [Historical] Victory is enabled>","Only available <if [buildingFilter] is not constructed>"],
+   }
 ]
