@@ -12,6 +12,6 @@
     {
         "name": "Cult of war",
         "type": "Founder",
-        "uniques": ["Only available <upon entering the [Medieval]>","Resting point for Influence with City-States following this religion [+15]"]
+        "uniques": ["Only available <upon entering the [Medieval]>","Earn [20]% of killed [All] unit's [Strength] as [Faith]","[100]% Production when constructing [Military] units [in all cities]"]
     },
 ]
