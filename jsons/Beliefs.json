@@ -25,7 +25,7 @@
 {
         "name": "Religious education by radio",
         "type": "Follower",
-        "uniques": ["Only available <after discovering [Radio]>","May buy [Broadcast Tower] buildings for [150] [Faith] [in all cities]","[+6 Faith, +2 Culture, +2 Happiness] from all [Broadcast Tower] buildings","[+3 Faith, +1 Culture, +1 Happiness] from all [Broadcast Tower] buildings <after discovering [Telecommunications]>","[+3 Faith, +1 Culture, +1 Happiness] from all [Broadcast Tower] buildings" <after discovering [Globalization]>]
+        "uniques": ["Only available <after discovering [Radio]>","May buy [Broadcast Tower] buildings for [150] [Faith] [in all cities]","[+6 Faith, +2 Culture, +2 Happiness] from all [Broadcast Tower] buildings","[+3 Faith, +1 Culture, +1 Happiness] from all [Broadcast Tower] buildings <after discovering [Telecommunications]>","[+3 Faith, +1 Culture, +1 Happiness] from all [Broadcast Tower] buildings <after discovering [Globalization]>"]
     },
     {
         "name": "Commercial religion",
