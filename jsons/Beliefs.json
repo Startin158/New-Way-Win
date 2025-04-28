@@ -2,16 +2,34 @@
 {
         "name": "Aggressive proselytism",
         "type": "Enhancer",
-        "uniques": ["Only available <after discovering [Iron Working]>","Earn [15]% of [Military] unit's [Strength] as [Culture]", "Earn [100]% of [Military] unit's [Strength] as [Faith]"]
+        "uniques": ["Only available <after discovering [Iron Working]>","Earn [50]% of [Military] unit's [Strength] as [Culture]", "Earn [100]% of [Military] unit's [Strength] as [Faith]"]
     },
 {
-        "name": "Cult of war",
+        "name": "Cult of castles",
         "type": "Follower",
-        "uniques": ["Only available <after discovering [Iron Working]>","May buy [Castle] buildings for [100] [Faith] [in all cities]","[+2 Faith] from all [Castle] buildings","[+2 Culture] from all [Castle] buildings","[+1 Happiness] from all [Castle] buildings"]
+        "uniques": ["Only available <after discovering [Iron Working]>","May buy [Castle] buildings for [100] [Faith] [in all cities]","[+2 Faith, +2 Culture, +1 Happiness] from all [Castle] buildings","   "[+1 Faith, +1 Culture] from every [Walls]","[+1 Faith, +1 Culture] from every [Arsenal]","[+1 Faith, +1 Culture] from every [Military Base]"]
     },
     {
         "name": "Cult of war",
         "type": "Founder",
-        "uniques": ["Only available <after discovering [Iron Working]>","Earn [20]% of killed [All] unit's [Strength] as [Faith]","[100]% Production when constructing [Military] units [in all cities]"]
+        "uniques": ["Only available <after discovering [Iron Working]>","Earn [50]% of killed [All] unit's [Strength] as [Faith]","[100]% Production when constructing [Military] units [in all cities]"]
+    },
+
+
+
+{
+        "name": "Radio broadcast",
+        "type": "Enhancer",
+        "uniques": ["Only available <after discovering [Radio]>","Religion naturally spreads to cities [+200] tiles away", "[-70]% Natural religion spread [in all cities]"]
+    },
+{
+        "name": "Religious education by radio",
+        "type": "Follower",
+        "uniques": ["Only available <after discovering [Radio]>","May buy [Broadcast Tower] buildings for [150] [Faith] [in all cities]","[+6 Faith, +2 Culture, +2 Happiness] from all [Broadcast Tower] buildings"]
+    },
+    {
+        "name": "Commercial religion",
+        "type": "Founder",
+        "uniques": ["Only available <after discovering [Railroads]>","[+2 Gold, +2 Faith, +1 Culture] from each Trade Route"]
     },
 ]
