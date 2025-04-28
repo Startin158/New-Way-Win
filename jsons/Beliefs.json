@@ -7,7 +7,7 @@
 {
         "name": "Cult of castles",
         "type": "Follower",
-        "uniques": ["Only available <after discovering [Iron Working]>","May buy [Castle] buildings for [100] [Faith] [in all cities]","[+2 Faith, +2 Culture, +1 Happiness] from all [Castle] buildings","   "[+1 Faith, +1 Culture] from every [Walls]","[+1 Faith, +1 Culture] from every [Arsenal]","[+1 Faith, +1 Culture] from every [Military Base]"]
+        "uniques": ["Only available <after discovering [Iron Working]>","May buy [Castle] buildings for [100] [Faith] [in all cities]","[+2 Faith, +2 Culture, +1 Happiness] from all [Castle] buildings","[+1 Faith, +1 Culture] from every [Walls]","[+1 Faith, +1 Culture] from every [Arsenal]","[+1 Faith, +1 Culture] from every [Military Base]"]
     },
     {
         "name": "Cult of war",
